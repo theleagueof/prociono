@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="circumflexcmb" format="1">
+  <advance width="0"/>
+  <outline>
+    <contour>
+      <point x="-327" y="568" type="line"/>
+      <point x="-228" y="676" type="line"/>
+      <point x="-115" y="570" type="line"/>
+      <point x="-99" y="583" type="line"/>
+      <point x="-131" y="631"/>
+      <point x="-187" y="735"/>
+      <point x="-196" y="752" type="curve"/>
+      <point x="-236" y="752" type="line"/>
+      <point x="-246" y="735"/>
+      <point x="-301" y="648"/>
+      <point x="-347" y="581" type="curve"/>
+    </contour>
+  </outline>
+</glyph>

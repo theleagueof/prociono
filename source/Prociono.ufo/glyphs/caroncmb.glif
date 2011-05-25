@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="caroncmb" format="1">
+  <advance width="0"/>
+  <outline>
+    <contour>
+      <point x="-388" y="716" type="line"/>
+      <point x="-352" y="668"/>
+      <point x="-292" y="587"/>
+      <point x="-280" y="566" type="curve"/>
+      <point x="-240" y="566" type="line"/>
+      <point x="-226" y="584"/>
+      <point x="-164" y="668"/>
+      <point x="-112" y="732" type="curve"/>
+      <point x="-124" y="750" type="line"/>
+      <point x="-248" y="642" type="line"/>
+      <point x="-361" y="748" type="line"/>
+    </contour>
+  </outline>
+</glyph>
