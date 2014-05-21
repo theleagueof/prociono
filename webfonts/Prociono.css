@@ -10,7 +10,7 @@
 */
 @font-face {
   font-family: 'Prociono';
-  src: url('Prociono-Regular-webfont.eot'),
+  src: url('Prociono-Regular-webfont.eot');
   src: url('Prociono-Regular-webfont.eot?#iefix') format('embedded-opentype'),
        url('Prociono-Regular-webfont.woff') format('woff'),
        url('Prociono-Regular-webfont.ttf')  format('truetype'),
