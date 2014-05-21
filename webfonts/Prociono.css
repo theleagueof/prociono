@@ -1,0 +1,18 @@
+/*
+  'Prociono'
+  https://www.theleagueofmoveabletype.com/prociono
+
+  Copyright (c) 2009, Barry Schwartz <site-chieftain@crudfactory.com>,
+  with Reserved Font Name OFL "Prociono".
+
+  This Font Software is licensed under the SIL Open Font License, Version 1.1.
+  http://scripts.sil.org/OFL
+*/
+@font-face {
+  font-family: 'Prociono';
+  src: url('Prociono-Regular-webfont.eot');
+  src: url('Prociono-Regular-webfont.eot?#iefix') format('embedded-opentype'),
+       url('Prociono-Regular-webfont.woff') format('woff'),
+       url('Prociono-Regular-webfont.ttf')  format('truetype'),
+       url('Prociono-Regular-webfont.svg#webfontLqDKYAnt') format('svg');
+}
