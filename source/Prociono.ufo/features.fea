@@ -1,0 +1,48 @@
+languagesystem DFLT dflt;
+languagesystem latn dflt;
+languagesystem latn AZE;
+languagesystem latn CRT;
+languagesystem latn MOL;
+languagesystem latn ROM;
+
+#feature aalt {
+#  XX
+#} aalt;
+
+#feature aalt {
+#  XX
+#} aalt;
+
+feature hist {
+  sub s by longs;
+} hist;
+
+lookup dashes {
+  #sub emdash by uni2014.alt;
+  sub endash by figuredash;
+} dashes;
+
+feature salt {
+  lookup dashes;
+} salt;
+
+feature ss01 {
+  lookup dashes;
+} ss01;
+
+feature liga {
+  sub f f i by f_f_i;
+  sub f f l by f_f_l;
+  sub f f t by f_f_t;
+  sub f f by f_f;
+  sub f i by f_i;
+  sub f l by f_l;
+  sub f t by f_t;
+} liga;
+
+feature dlig {
+  sub c t by c_t;
+  sub s t by s_t;
+  sub I J by IJ;
+  sub i j by ij;
+} dlig;
